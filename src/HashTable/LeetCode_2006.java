@@ -12,7 +12,7 @@ public class LeetCode_2006 {
        for(int i=0; i<n; i++){
              for(int j =i+1;j<n;j++){
                  if(Math.abs(a[j]-a[i])==k){
-                     count++;
+                     count++;:qww
                  }
              }
        }
