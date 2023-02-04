@@ -14,6 +14,7 @@ public class LeetCode_2542 {
                 }
             }
         }
+        return 0;
     }
     public static void main(String[] args) {
         int n1[]={1,3,3,2};
